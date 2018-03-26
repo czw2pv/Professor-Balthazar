@@ -1,9 +1,10 @@
 ![banner](/Images/AzureStackBanner.png)
 
-# Professor-Balthazar
-Test ground to set the stage...
-This GitHub Repo contains the site which is planned to be dynamically built  
+# The Azure Stack Forge
+**Anvil** - _Check_  **Hammer** - _Check_  
+
+This GitHub Repo will contain the the repo for the dynamically built  website
 
 ## Starting to build the framwork for the site.
 
-Smurf 
+#### To Be Continued      
