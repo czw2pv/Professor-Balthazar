@@ -1,4 +1,4 @@
-![banner](Images/AzureStackBanner.png)
+!(Images/AzureStackBanner.png)
 
 # Professor-Balthazar
 Test ground to set the stage...
